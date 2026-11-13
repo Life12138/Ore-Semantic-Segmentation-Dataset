@@ -16,6 +16,26 @@
 - **DOI**：https://doi.org/10.1016/j.eswa.2025.127980
 - **论文链接**：https://www.sciencedirect.com/science/article/pii/S095741742501601X
 
+## 可视化与模型结构
+
+### 网络结构
+
+![网络结构](./网络结构.png)
+
+*图 1：SAM-enhanced U-Net with self-supervised pre-training and semi-supervised self-training 网络结构示意图。*
+
+### 旋转目标检测结果
+
+![旋转目标检测结果](./旋转目标检测结果.png)
+
+*图 2：矿石旋转目标检测结果示例。*
+
+### 语义分割结果
+
+![语义分割结果](./语义分割结果.png)
+
+*图 3：矿石语义分割结果示例。*
+
 ## 引用要求
 
 如果您在研究、论文、报告或其他工作中使用了本数据集，请引用以下论文：
